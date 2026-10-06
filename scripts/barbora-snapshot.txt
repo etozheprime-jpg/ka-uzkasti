@@ -1,0 +1,168 @@
+# Snapshot of public barbora.lt search results, read 2026-10-07 (Maxima Group's online shop).
+# Format: category|brand|slug|name as shown in shop|price EUR|old price EUR (if discounted)|deposit EUR
+# Prices are a dated snapshot, never live. Product URL = https://barbora.lt/produktai/<slug>
+gummies|Haribo|guminukai-haribo-goldbears-175-g|Guminukai HARIBO GOLDBEARS, 175 g|2.49||
+gummies|Haribo|guminukai-haribo-starmix-175-g|Guminukai HARIBO STARMIX, 175 g|2.49||
+gummies|Haribo|guminukai-haribo-juicy-goldbears-160-g|Guminukai HARIBO JUICY GOLDBEARS, 160 g|2.49||
+gummies|Haribo|guminukai-haribo-fruity-bussi-175-g|Guminukai HARIBO FRUITY-BUSSI, 175 g|2.49||
+gummies|Haribo|guminukai-haribo-phantasia-175-g|Guminukai HARIBO PHANTASIA, 175 g|2.49||
+gummies|Haribo|guminukai-haribo-sauer-brenner-160-g|Guminukai HARIBO SAUER BRENNER, 160 g|2.49||
+gummies|Haribo|guminukai-haribo-pico-balla-160-g|Guminukai HARIBO PICO-BALLA, 160 g|2.49||
+gummies|Haribo|guminukai-haribo-happy-cola-175-g|Guminukai HARIBO HAPPY COLA, 175 g|2.49||
+gummies|Haribo|guminukai-haribo-raupies-160-g|Guminukai HARIBO RAUPIES, 160 g|2.49||
+gummies|Haribo|guminukai-haribo-worms-100-g|Guminukai HARIBO WORMS, 100 g|0.99|1.35|
+gummies|Trolli|nauja-guminukai-trolli-dracula-braskiu-skonio-200-g|Guminukai TROLLI DRACULA, braškių skonio, 200 g|1.49||
+gummies|Trolli|nauja-guminukai-trolli-tarantula-vaisiu-skonio-150-g|Guminukai TROLLI TARANTULA, vaisių skonio, 150 g|1.49||
+gummies|Rowntree's|guminukai-rowntrees-randoms-150-g|Guminukai ROWNTREES RANDOMS, 150 g|1.49||
+gummies|Rowntree's|guminukai-rowntrees-randoms-juicers-140-g|Guminukai ROWNTREES RANDOMS JUICERS, 140 g|1.49||
+candy|Skittles|kramtomieji-saldainiai-skittles-fruits-152-g|Kramtomieji saldainiai SKITTLES FRUITS, 152 g|1.69|2.39|
+candy|Skittles|kramtomieji-saldainiai-skittles-crazy-sours-95-g|Kramtomieji saldainiai SKITTLES CRAZY SOURS, 95 g|1.79||
+candy|Skittles|kramtomieji-saldainiai-skittles-desserts-152-g|Kramtomieji saldainiai SKITTLES DESSERTS, 152 g|1.69|2.39|
+candy|Skittles|kramtomieji-saldainiai-skittles-smothies-95-g|Kramtomieji saldainiai SKITTLES SMOTHIES, 95 g|1.79||
+candy|Maoam|kramtomieji-saldainiai-maoam-kracher-200-g|Kramtomieji saldainiai MAOAM KRACHER, 200 g|2.49||
+candy|Maoam|kramtomieji-saldainiai-maoam-mao-mix-135-g|Kramtomieji saldainiai MAOAM MAO MIX, 135 g|2.49||
+candy|M&M's|draze-m-m-s-choco-200-g|Dražė M&M'S CHOCO, 200 g|3.79||
+candy|M&M's|draze-m-m-s-peanut-su-zemes-riesutais-200-g|Dražė M&M'S PEANUT su žemės riešutais, 200 g|3.79||
+candy|M&M's|pieninio-sokolado-draze-m-m-s-minis-176-g|Pieninio šokolado dražė M&M'S MINIS, 176 g|3.79||
+candy|M&M's|draze-su-zemes-riesutais-ir-pieniniu-sokoladu-m-m-s-82-g|Dražė su žemės riešutais ir pieniniu šokoladu M&M'S, 82 g|1.99||
+candy|Chupa Chups|ledinukai-chupa-chups-mini-the-best-of-bag-120-g|Ledinukai CHUPA CHUPS MINI THE BEST OF BAG, 120 g|2.79||
+candy|Chupa Chups|ledinukas-chupa-chups-fruit-ivairiu-skoniu-12-g|Ledinukas CHUPA CHUPS FRUIT, įvairių skonių, 12 g|0.33||
+candy|Chupa Chups|ledinukas-chupa-chups-original-12-g|Ledinukas CHUPA CHUPS ORIGINAL, 12 g|0.33||
+chocolate|Milka|pieninis-sokoladas-milka-90-g|Pieninis šokoladas MILKA, 90 g|2.19||
+chocolate|Milka|pieninis-sokoladas-biscoff-milka-275-g-275-g|Pieninis šokoladas Biscoff MILKA, 275 g|4.89||
+chocolate|Milka|pieninis-sokoladas-milka-choco-jelly-su-zeles-gabaliukais-250-g|Pieninis šokoladas MILKA CHOCO JELLY su želės gabaliukais, 250 g|4.89||
+chocolate|Milka|pieninis-sokoladas-milka-su-neskaldytais-lazdynu-riesutais-95-g|Pieninis šokoladas MILKA su neskaldytais lazdynų riešutais, 95 g|2.19||
+cookie|Milka|sausainiai-milka-choco-mini-stars-150-g|Sausainiai MILKA CHOCO MINI STARS, 150 g|2.59||
+cookie|Milka|sausainiai-milka-choc-choc-150-g|Sausainiai MILKA CHOC & CHOC, 150 g|2.79||
+bar|Snickers|sokoladinis-batonelis-snickers-50-g|Šokoladinis batonėlis SNICKERS, 50 g|1.09||
+bar|Snickers|sokoladinis-batonelis-snickers-super-1-112-5-g|Šokoladinis batonėlis SNICKERS SUPER +1, 112.5 g|1.85||
+bar|Snickers|sokoladinis-batonelis-snickers-creamy-peanut-36-5-g|Šokoladinis batonėlis SNICKERS CREAMY PEANUT, 36.5 g|1.39||
+bar|Snickers|sokoladiniai-batoneliai-snickers-5-vnt-250-g|Šokoladiniai batonėliai SNICKERS, 5 vnt., 250 g|4.49||
+bar|Bounty|sokoladinis-batonelis-bounty-57-g|Šokoladinis batonėlis BOUNTY, 57 g|1.35||
+bar|Mars|sokoladiniai-batoneliai-mars-2-vnt-70-g|Šokoladiniai batonėliai MARS, 2 vnt., 70 g|1.69||
+bar|Twix|sokoladinis-batonelis-twix-baltas-46-g|Šokolado batonėlis TWIX, baltas, 46 g|1.09||
+bar|Twix|sokoladinis-batonelis-twix-xtra-75-g|Šokoladinis batonėlis TWIX XTRA, 75 g|1.35||
+bar|Twix|sokoladiniai-batoneliai-twix-5-vnt-250-g|Šokoladiniai batonėliai TWIX, 5 vnt., 250 g|4.49||
+wafer|Kit Kat|vaflinis-batonelis-kit-kat-41-5-g|Vaflinis batonėlis KIT KAT, 41.5 g|0.89||
+wafer|Kit Kat|vaflinis-batonelis-kit-kat-chunky-su-zemes-riesutu-kremu-42-g|Vaflinis batonėlis KIT KAT CHUNKY su žemės riešutų kremu, 42 g|0.89||
+wafer|Kit Kat|sok-batonelis-cookie-dough-kit-kat-42-g-42-g|Šok.batonėlis Cookie Dough KIT KAT, 42 g|0.89||
+wafer|Kit Kat|vaflinis-batonelis-kit-kat-chunky-duo-64-g|Vaflinis batonėlis KIT KAT CHUNKY DUO, 64 g|1.29||
+wafer|Kit Kat|vaflinis-batonelis-kit-kat-white-41-5-g-84863|Vaflinis batonėlis KIT KAT WHITE, 41.5 g|0.79||
+chocolate|Kinder|pieno-batonelis-kinder-maxi-king-105-g|Pieno batonėlis KINDER MAXI KING, 105 g|2.69||
+chocolate|Kinder|sokoladinis-kiausinis-kinder-surprise-20-g|Šokoladinis kiaušinis KINDER SURPRISE, 20 g|1.29||
+chocolate|Kinder|pieninis-sokoladas-kinder-200-g-11621|Pieninis šokoladas KINDER, 200 g|3.79||
+bar|Kinder|sokoladinis-batonelis-kinder-milk-slice-27-9-proc-rieb-28-g|Šokoladinis batonėlis KINDER MILK SLICE, 27,9 % rieb., 28 g|0.79||
+bar|Kinder|sokoladinis-batonelis-kinder-country-23-5-g|Šokoladinis batonėlis KINDER COUNTRY, 23.5 g|0.75||
+candy|Kinder|saldainiai-pieniniame-ir-kakavos-kreme-kinder-joy-su-zaislu-20-g|Saldainiai pieniniame ir kakavos kreme KINDER JOY su žaislu, 20 g|1.49||
+wafer|Kinder|vafliniai-batoneliai-su-kakavos-skonio-idaru-kinder-hippo-103-5-g|Vafliniai batonėliai su kakavos skonio įdaru KINDER HIPPO, 103.5 g|2.69||
+chocolate|Toblerone|pieninis-sokoladas-toblerone-su-medumi-ir-migdolu-nuga-100-g|Pieninis šokoladas TOBLERONE su medumi ir migdolų nuga, 100 g|3.19||
+chocolate|Toblerone|baltasis-sokoladas-toblerone-su-medumi-ir-migdolu-nuga-100-g|Baltasis šokoladas TOBLERONE su medumi ir migdolų nuga, 100 g|3.19||
+chocolate|Lindt|juodasis-sokoladas-70-proc-lindt-excellence-100-g|Juodasis šokoladas (70 %) LINDT EXCELLENCE, 100 g|4.59||
+chocolate|Lindt|juodasis-sokoladas-lindt-excellence-su-apelsinais-migdolais-100-g|Juodasis šokoladas LINDT EXCELLENCE su apelsinais, migdolais, 100 g|4.59||
+chocolate|Lindt|sokolado-rutuliuku-rinkinys-lindt-lindor-200-g|Šokolado rutuliukų rinkinys LINDT LINDOR, 200 g|8.49||
+chocolate|Ritter Sport|pieninis-sokoladas-ritter-sport-su-skrudintomis-pistacijomis-100-g|Pieninis šokoladas RITTER SPORT su skrudintomis pistacijomis, 100 g|2.49||
+chocolate|Ritter Sport|pieninis-sokoladas-ritter-sport-su-migdolais-ir-medumi-100-g|Pieninis šokoladas RITTER SPORT su migdolais ir medumi, 100 g|2.49||
+chocolate|Ritter Sport|juodasis-sokoladas-ritter-sport-su-lazdynu-riesutais-100-g|Juodasis šokoladas RITTER SPORT su lazdynų riešutais, 100 g|2.49||
+chocolate|Ferrero|sokoladiniai-saldainiai-ferrero-rocher-100-g|Šokoladiniai saldainiai FERRERO ROCHER, 100 g|4.49||
+chocolate|Ferrero|sokoladiniai-saldainiai-ferrero-rocher-200-g|Šokoladiniai saldainiai FERRERO ROCHER, 200 g|7.19||
+spread|Nutella|tepamasis-kremas-nutella-su-lazdynu-riesutais-ir-kakava-230-g|Tepamasis kremas NUTELLA su lazdynų riešutais ir kakava, 230 g|3.19||
+spread|Nutella|tepamasis-kremas-nutella-su-lazdynu-riesutais-ir-kakava-350-g|Tepamasis kremas NUTELLA su lazdynų riešutais ir kakava, 350 g|4.19||
+spread|Lotus|tepamasis-kremas-lotus-biscoff-400-g|Tepamasis kremas LOTUS BISCOFF, 400 g|4.79||
+chips|Doritos|kukuruzu-traskuciai-doritos-nachos-surio-skonio-180-g|Kukurūzų traškučiai DORITOS NACHOS, sūrio skonio, 180 g|2.19||
+chips|Doritos|kukuruzu-traskuciai-doritos-grietines-padazo-skonio-90-g|Kukurūzų traškučiai DORITOS, grietinės padažo skonio, 90 g|1.69||
+chips|Doritos|kukuruzu-traskuciai-doritos-surio-skonio-90-g|Kukurūzų traškučiai DORITOS, sūrio skonio, 90 g|1.69||
+spicy|Doritos|kukuruzu-traskuciai-doritos-aitriuju-papriku-skonio-180-g-88621|Kukurūzų traškučiai DORITOS, aitriųjų paprikų skonio, 180 g|2.19||
+spicy|Doritos|kukuruzu-traskuciai-doritos-saldziu-aitriuju-papriku-skonio-90-g|Kukurūzų traškučiai DORITOS, saldžių aitriųjų paprikų skonio, 90 g|1.69||
+chips|Lay's|bulviu-traskuciai-lay-s-svogunu-laisku-skonio-130-g|Bulvių traškučiai LAY'S, svogūnų laiškų skonio, 130 g|2.19||
+chips|Lay's|bulviu-traskuciai-lay-s-su-druska-130-g|Bulvių traškučiai LAY'S su druska, 130 g|2.19||
+chips|Lay's|bulviu-traskuciai-lay-s-maxx-surio-ir-svogunu-skonio-120-g|Bulvių traškučiai LAY'S MAXX, sūrio ir svogūnų skonio, 120 g|2.19||
+chips|Lay's|bulviu-traskuciai-lay-s-grilyje-keptu-sonkauliuku-skonio-130-g|Bulvių traškučiai LAY'S, grilyje keptų šonkauliukų skonio, 130 g|2.19||
+chips|Lay's|bulviu-traskuciai-lay-s-grietines-ir-zoleliu-skonio-130-g|Bulvių traškučiai LAY'S, grietinės ir žolelių skonio, 130 g|2.19||
+chips|Lay's|bulviu-traskuciai-su-grietine-lay-s-180-g-180-g|Bulvių traškučiai su grietine LAY'S, 180 g|2.99||
+chips|Pringles|traskuciai-pringles-grietines-ir-svogunu-skonio-165-g|Traškučiai PRINGLES, grietinės ir svogūnų skonio, 165 g|1.99||
+chips|Pringles|traskuciai-pringles-original-165-g|Traškučiai PRINGLES ORIGINAL, 165 g|1.99||
+chips|Pringles|traskuciai-pringles-papriku-skonio-165-g|Traškučiai PRINGLES, paprikų skonio, 165 g|1.99||
+spicy|Pringles|traskuciai-pringles-astraus-pikantisko-skonio-165-g|Traškučiai PRINGLES, aštraus pikantiško skonio, 165 g|1.99||
+chips|Pringles|traskuciai-pringles-bbq-165-g|Traškučiai PRINGLES BBQ, 165 g|1.99||
+chips|Pringles|traskuciai-pringles-juoduju-trumu-ir-sviesto-skonio-165-g|Traškus užkandis PRINGLES, juodųjų trumų, sviesto sk., 165 g|1.99||
+chips|Pringles|nauja-traskuciai-pringles-su-vidurzemio-prieskoniais-165-g|Traškučiai PRINGLES su Viduržemio prieskoniais, 165 g|1.99||
+chips|Pringles|traskuciai-pringles-kreveciu-skonio-165-g|Traškučiai PRINGLES, krevečių skonio, 165 g|1.99||
+chips|Cheetos|kukuruzu-uzkandis-cheetos-surio-skonio-165-g|Kukurūzų užkandis CHEETOS, sūrio skonio, 165 g|1.49|2.29|
+chips|Cheetos|kukuruzu-uzkandis-cheetos-kecupo-skonio-165-g|Kukurūzų užkandis CHEETOS, kečupo skonio, 165 g|1.49|2.29|
+spicy|Cheetos|kukuruzu-uzkandis-cheetos-crunchos-saldz-aitr-papriku-sk-165-g|Kukurūzų užkandis CHEETOS CRUNCHOS, saldž. aitr. paprikų sk., 165 g|1.49|2.29|
+spicy|Takis|kukuruzu-traskuciai-takis-fuego-90-g|Kukurūzų traškučiai TAKIS FUEGO, 90 g|2.39||
+spicy|Takis|kukuruzu-traskuciai-takis-blue-heat-90-g|Kukurūzų traškučiai TAKIS BLUE HEAT, 90 g|2.39||
+spicy|Takis|kukuruzu-traskuciai-takis-intense-nacho-90-g|Kukurūzų traškučiai TAKIS INTENSE NACHO, 90 g|2.39||
+chips|Estrella|bulviu-traskuciai-estrella-grietines-ir-svogunu-skonio-250-g|Bulvių traškučiai ESTRELLA, grietinės ir svogūnų skonio, 250 g|2.79||
+chips|Estrella|bulviu-traskuciai-estrella-grietines-ir-cesnaku-skonio-350-g|Bulvių traškučiai ESTRELLA, grietinės ir česnakų skonio, 350 g|3.49||
+chips|Estrella|vingiuotai-pjaustyti-bulviu-traskuciai-estrella-su-krapais-250-g|Vingiuotai pjaustyti bulvių traškučiai ESTRELLA su krapais, 250 g|2.79||
+chips|OHO!|surus-kvieciai-su-krapais-oho-35-g|Sūrūs kviečiai su krapais OHO!, 35 g|0.35||
+popcorn|Mr. Check|spraginti-kukuruzai-su-druska-mr-check-150-g|Spraginti kukurūzai su druska MR.CHECK, 150 g|1.49||
+popcorn|Mr. Check|spraginti-kukuruzai-su-suriu-mr-check-150-g-92346|Spraginti kukurūzai su sūriu MR.CHECK, 150 g|1.65||
+popcorn|Alis Co|spraginti-karamelizuoti-kukuruzai-alis-co-200-g|Spraginti karamelizuoti kukurūzai ALIS CO, 200 g|1.55||
+popcorn|Pophouse|spraginti-karamelizuoti-kukuruzai-pophouse-180-g|Spraginti karamelizuoti kukurūzai POPHOUSE, 180 g|0.99||
+popcorn|Pophouse|spraginti-kukuruzai-pophouse-cederio-skonio-65-g|Spraginti kukurūzai POPHOUSE, čederio skonio, 65 g|0.79||
+nuts|Extra Line|skrudintos-ir-sudytos-pistacijos-extra-line-500-g|Skrudintos ir sūdytos pistacijos EXTRA LINE, 500 g|6.50||
+nuts|Well Done|kepintos-ir-sudytos-pistacijos-well-done-250-g|Kepintos ir sūdytos pistacijos WELL DONE, 250 g|4.89||
+nuts|Extra Line|kepinti-ir-sudyti-zemes-riesutai-extra-line-500-g|Kepinti ir sūdyti žemės riešutai EXTRA LINE, 500 g|1.45||
+nuts|Arimex|kepinti-sudyti-zemes-riesutai-arimex-500-g|Kepinti, sūdyti žemės riešutai ARIMEX, 500 g|2.89||
+nuts|Well Done|kepinti-sudyti-zemes-riesutai-well-done-500-g|Kepinti, sūdyti žemės riešutai WELL DONE, 500 g|2.59||
+nuts|Estrella|kepinti-zemes-riesutai-su-druska-estrella-light-salted-140-g|Kepinti žemės riešutai su druska ESTRELLA LIGHT SALTED, 140 g|1.99|2.49|
+nuts|Extra Line|migdolai-extra-line-150-g|Migdolai EXTRA LINE, 150 g|1.61||
+nuts|Well Done|migdolai-well-done-200-g|Migdolai WELL DONE, 200 g|2.99||
+nuts|Arimex|migdolai-arimex-be-luobeliu-100-g|Migdolai ARIMEX be luobelių, 100 g|2.19||
+cookie|Oreo|kakaviniai-sausainiai-oreo-original-154-g|Kakaviniai sausainiai OREO ORIGINAL, 154 g|2.19||
+cookie|Oreo|sausainiai-oreo-mini-original-160-g|Sausainiai OREO MINI ORIGINAL, 160 g|2.69||
+cookie|Oreo|kakaviniai-sausainiai-oreo-double-creme-157-g|Kakaviniai sausainiai OREO DOUBLE CREME, 157 g|2.19||
+cookie|Oreo|sausainiai-oreo-birthday-cake-97-g|Sausainiai BIRTHDAY CAKE OREO, 97 g|1.99||
+cookie|Oreo|sausainiai-oreo-golden-154-g|Sausainiai OREO GOLDEN, 154 g|2.19||
+cookie|Lotus|sausainiai-lotus-biscoff-250-g|Sausainiai LOTUS BISCOFF, 250 g|2.59||
+cookie|Leibniz|sviestiniai-sausainiai-leibniz-minis-su-sokoladu-100-g|Sviestiniai sausainiai LEIBNIZ MINIS su šokoladu, 100 g|1.49||
+cookie|Leibniz|sviestiniai-sausainiai-leibniz-zoo-100-g|Sviestiniai sausainiai LEIBNIZ ZOO, 100 g|1.49||
+wafer|Prince Polo|vaflinis-batonelis-prince-polo-classic-45-g|Vaflinis batonėlis PRINCE POLO CLASSIC, 45 g|0.65||
+wafer|Prince Polo|vaflinis-batonelis-prince-polo-oreo-45-g|Vaflinis batonėlis PRINCE POLO OREO, 45 g|0.65||
+wafer|Prince Polo|vaflinis-batonelis-prince-polo-kokosu-skonio-45-g|Vaflinis batonėlis PRINCE POLO, kokosų skonio, 45 g|0.65||
+wafer|Roshen|vafliai-roshen-su-kakavos-skonio-idaru-216-g|Vafliai ROSHEN su kakavos skonio įdaru, 216 g|1.59||
+wafer|Well Done|kiausininiai-vafliai-well-done-250-g|Kiaušininiai vafliai WELL DONE, 250 g|1.39||
+wafer|Parisettes|vafliukai-parisettes-200-g|Vafliukai PARISETTES, 200 g|2.19||
+wafer|Klaipėdos duona|apvalus-vafliu-lakstai-klaipedos-duona-90-g|Apvalūs vaflių lakštai KLAIPĖDOS DUONA, 90 g|1.29||
+wafer|B&C|karameliniai-vafliai-b-c-325-g|Karameliniai vafliai B&C, 325 g|2.29||
+wafer|Selga|vafliai-selga-su-sokolado-skonio-idaru-180-g|Vafliai SELGA, šokolado skonio, 180 g|1.29||
+icecream|Magnum|valgomieji-ledai-magnum-double-bilionaire-71-g|Valgomieji ledai MAGNUM DOUBLE BILIONAIRE, 71 g|1.99||
+icecream|Magnum|valgomieji-ledai-magnum-su-migdolais-83-g|Valgomieji ledai MAGNUM su migdolais, 83 g|1.99||
+icecream|Magnum|valgomieji-ledai-strawberry-white-magnum-81-g|Valgomieji ledai STRAWBERRY WHITE MAGNUM, 81 g|1.99||
+icecream|Magnum|valgomieji-ledai-magnum-pistaciju-skonio-69-5-g|Valgomieji ledai MAGNUM, pistacijų skonio, 69.5 g|1.99||
+icecream|Ferrero|valgomieji-ledai-ferrero-rocher-65-g|Valgomieji ledai FERRERO ROCHER, 65g.|1.99||
+icecream|Snickers|valgomieji-ledai-snickers-48-g|Valgomieji ledai SNICKERS, 48 g|1.15||
+icecream|Mio & Rio|valgomieji-ledai-mio-rio-vaniles-skonio-65-g|Valgomieji ledai MIO & RIO, vanilės skonio, 65 g|0.35||
+icecream|Klasika|vaniliniai-valgomieji-ledai-klasika-500-g|Vaniliniai valgomieji ledai KLASIKA, 500 g|2.99||
+icecream|Ben & Jerry's|valgomieji-ledai-ben-jerry-s-tarp-sausainiu-82-g|Valgomieji ledai BEN&JERRY'S tarp sausainių, 82 g|1.99||
+icecream|Ben & Jerry's|valg-ledai-ben-jerry-s-su-sokoladiniu-sausainiu-gabaliuk-406-g|Valg. ledai BEN&JERRY'S su šokoladinių sausainių gabaliuk., 406 g|6.99||
+icecream|Ayuko|nauja-valgomieji-ledai-ayuko-zaliosios-arbatos-skonio-250-g|Valgomieji ledai AYUKO, žaliosios arbatos skonio, 250 g|4.99||
+drink|Coca-Cola|gazuotas-gerimas-coca-cola-1-5-l-89166|Gazuotas gėrimas COCA-COLA, 1.5 l|2.49||0.10
+drink|Coca-Cola|gazuotas-gerimas-coca-cola-zero-2-l-89164|Gazuotas gėrimas COCA-COLA ZERO, 2 l|2.99||0.10
+drink|Pepsi|gazuotas-gerimas-pepsi-330-ml-91866|Gazuotas gėrimas PEPSI, 330 ml|0.99||0.10
+drink|Pepsi|gazuotas-gerimas-pepsi-max-330-ml-91863|Gazuotas gėrimas PEPSI MAX, 330 ml|0.99||0.10
+drink|Fanta|gazuotas-gerimas-fanta-lemon-zero-1-5-l|Gaivusis gėrimas FANTA Zero Lemon, 1.5 l|2.49||0.10
+drink|Sprite|gazuotas-gerimas-sprite-330-ml-89175|Gazuotas gėrimas SPRITE, 330 ml|1.09||0.10
+fruit|Beginnings|riesutu-ir-seklu-batonelis-beginnings-33-g|Riešutų ir sėklų batonėlis BEGINNINGS, 33 g|1.09||
+fruit|Beginnings|riesutu-ir-sokolado-batonelis-beginnings-33-g|Riešutų ir šokolado batonėlis BEGINNINGS, 33 g|1.09||
+fruit|Greenz|vaisiu-ir-riesutu-uzkandis-greenz-abrikosu-skonio-30-g|Vaisių ir riešutų užkandis GREENZ, abrikosų skonio, 30 g|0.89||
+fruit|Organix|ekol-avizu-batonelis-organix-su-brask-obuol-12-men-23-g|Ekologiškas avižų batonėlis su braškėmis ir obuoliais ORGANIX, 23 g|1.49||
+fruit|Go On|baltyminis-batonelis-go-on-sausainiu-skonio-50-g|Baltyminis batonėlis GO ON, sausainių skonio, 50 g|1.19||
+fruit|MaxiNutrition|baltyminis-batonelis-maxi-nutrition-su-pistaciju-idaru-45-g|Baltyminis batonėlis MaxiNutrition su pistacijų įdaru, 45 g|2.39||
+fruit|Myprotein|baltyminis-batonelis-myprotein-vaniles-skonio-60-g|Baltyminis batonėlis MYPROTEIN, vanilės skonio, 60 g|2.19||
+fruit|Arimex|dziovintos-datules-arimex-premium-be-kauliuku-150-g|Džiovintos datulės ARIMEX PREMIUM be kauliukų, 150 g|1.19||
+fruit|Arimex|dziovintu-vaisiu-misinys-arimex-premium-300-g|Džiovintų vaisių mišinys ARIMEX PREMIUM, 300 g|3.29||
+fruit|Well Done|dziovintu-vaisiu-misinys-well-done-500-g|Džiovintų vaisių mišinys WELL DONE, 500 g|4.99||
+fruit|Summmer|saltyje-dziovinti-vaisiai-summmer-mociutes-sodai-25-g|Šaltyje džiovinti vaisiai SUMMMER MOČIUTĖS SODAI, 25 g|2.39||
+chocolate|Rūta|sokoladiniu-saldainiu-rinkinys-ruta-1913-87-g|Šokoladinių saldainių rinkinys RŪTA 1913, 87 g|5.19||
+chocolate|Rūta|sokoladiniu-saldainiu-rinkinys-ruta-sokolado-tradicijos-220-g|Šokoladinių saldainių rinkinys RŪTA ŠOKOLADO TRADICIJOS, 220 g|7.99||
+chocolate|Rūta|saldainiu-rinkinys-ruta-gintaro-kelias-405-g|Saldainių rinkinys RŪTA GINTARO KELIAS, 405 g|15.49||
+chocolate|Pergalė|juodasis-sokoladas-pergale-85-g|Juodasis šokoladas PERGALĖ, 85 g|2.19||
+chocolate|Pergalė|pieninis-sokoladas-pergale-su-traskia-karamele-ir-druska-85-g|Pieninis šokoladas PERGALĖ su traškia karamele ir druska, 85 g|1.99||
+chocolate|Pergalė|juodasis-sokoladas-pergale-su-neskaldytais-lazdynu-riesutais-85-g|Juodasis šokoladas PERGALĖ su neskaldytais lazdynų riešutais, 85 g|2.19||
+chocolate|Pergalė|triufeliai-pergale-classic-200-g|Triufeliai PERGALĖ CLASSIC, 200 g|2.99||
+wafer|Pocky|lazdeles-su-sokolado-skonio-glaistu-pocky-47-g|Lazdelės su šokolado skonio glaistu POCKY, 47 g|1.69||
+wafer|Pocky|lazdeles-su-zaliosios-arbatos-skonio-glaistu-pocky-33-g|Lazdelės su žaliosios arbatos skonio glaistu POCKY, 33 g|1.69||
+wafer|Pocky|lazdeles-su-dvigubu-sokolado-glaistu-pocky-47-g|Lazdelės su dvigubu šokolado glaistu POCKY, 47 g|1.69||
